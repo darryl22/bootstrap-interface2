@@ -1,0 +1,37 @@
+.cont{
+    margin-left: 50px;
+    padding-top: 40px;
+}
+
+.left{
+    margin-right: 40px;
+}
+
+.company-logo{
+    width: 110px;
+}
+
+.bottom-margin{
+    margin-bottom: 80px;
+}
+
+.right{
+    margin-left: 20px;
+}
+
+.smaller-margin{
+    margin-bottom: 40px;
+}
+
+.heading-margin{
+    margin-top: 80px;
+}
+
+.times{
+    margin-bottom: 20px;
+}
+
+.submit-button{
+    width: 100%;
+    margin-top: 40px;
+}
